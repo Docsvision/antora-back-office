@@ -1,13 +1,12 @@
 name: backoffice
-version: '6.1'
-prerelease: false
+version: 'GBL-3253'
+prerelease: true
 title: Базовые объекты
 asciidoc:
   attributes:
     pl-req: 'версии 6.1'
     dm-req: 'версии 6.1'
     wf-req: 'версии 6.1'
-    ad-req: 'версии 6.1'
     to-req: 'версии 6.1'
     win-req: 'версии 6.1'
     long: 'CADES-X Long Type 1'
